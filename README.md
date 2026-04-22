@@ -11,6 +11,7 @@ project-management/
 │   ├── maclift.md                # iOS 自动化测试客户端（已上线）
 │   ├── tempo.md                  # AI 日程排程助手
 │   ├── voice-input-app.md        # WhisperKit 语音输入
+│   ├── wisprflowmac.md           # WisprFlowMac (私有)
 │   ├── spec-kit.md               # Spec 驱动开发工作流
 │   └── openstick-zeroclaw.md     # OpenStick Telegram Bot + STT
 ├── tasks/                 # 任务列表（按项目分类）
@@ -24,6 +25,7 @@ project-management/
 | maclift | **已上线** | Swift/iOS/Xcode | App Store 已上架 |
 | tempo | 规划中 | Flutter/FastAPI/OpenAI | MRR 主力产品 |
 | voice-input-app | 规划中 | Swift/WhisperKit | iOS 本地语音输入 |
+| wisprflowmac | 待确认 | Swift | (私有仓库) |
 | spec-kit | 活跃 | Python/specify-cli | 开发流程标准化 |
 | openstick-zeroclaw | 活跃 | Go/mihomo/SenseVoice | 192.168.100.1 基础设施 |
 
