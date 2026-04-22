@@ -8,7 +8,8 @@
 project-management/
 ├── README.md              # 本文件
 ├── projects/              # 项目列表
-│   ├── maclift.md         # iOS 自动化测试客户端
+│   ├── maclift.md         # iOS 自动化测试客户端（已上线）
+│   ├── tempo.md           # AI 日程排程助手
 │   ├── voice-input-app.md # WhisperKit 语音输入
 │   └── spec-kit.md        # Spec 驱动开发工作流
 ├── tasks/                 # 任务列表（按项目分类）
@@ -17,17 +18,18 @@ project-management/
 
 ## 项目状态总览
 
-| 项目 | 状态 | 技术栈 | 位置 |
+| 项目 | 状态 | 技术栈 | 目标 |
 |------|------|--------|------|
-| maclift | 活跃 | Swift/iOS/Xcode | GitHub: bGl5b25nanVu/MacLift |
-| voice-input-app | 活跃 | Swift/WhisperKit | 待建 |
-| spec-kit | 活跃 | Python/specify-cli | GitHub: bGl5b25nanVu/claude-skills |
-| tempo | 规划中 | Flutter/RN | 待建 |
-| choclift | 规划中 | macOS/Swift | 待建 |
+| maclift | **已上线** | Swift/iOS/Xcode | App Store 已上架 |
+| tempo | 规划中 | Flutter/FastAPI/OpenAI | MRR 主力产品 |
+| voice-input-app | 规划中 | Swift/WhisperKit | iOS 本地语音输入 |
+| spec-kit | 活跃 | Python/specify-cli | 开发流程标准化 |
 
-## 目标
+## 核心目标
 
 **年底 MRR = USD 100k**
+
+当前主力产品：**Tempo**（AI 日程排程助手），已确定方向，正在筹备 Sprint 1。
 
 ## 工作流程
 
@@ -38,7 +40,7 @@ project-management/
 
 ## 自动化
 
-- cron 每 20 分钟自动迭代当前任务
+- cron 每 15 分钟自动迭代当前任务（2026-03-08 升级）
 - 任务完成后自动推进下一个 sprint
 - Telegram 推送通知
 
