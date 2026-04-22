@@ -18,6 +18,6 @@ iOS 语音输入应用，使用 WhisperKit 进行语音识别。
 - **语音模型**: AppleSpeech Hybrid
 - **测试**: 68个测试全通过
 
-## 相关文档
+## 相关仓库
 
-- 位置: `/home/user/aihome/happy/`
+> 请确认 voice-input-app 的 GitHub 仓库地址

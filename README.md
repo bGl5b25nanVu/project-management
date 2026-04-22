@@ -9,8 +9,7 @@ project-management/
 ├── README.md              # 本文件
 ├── projects/              # 项目列表
 │   ├── maclift/          # iOS 端到端测试项目
-│   ├── voice-input-app/  # WhisperKit 语音输入
-│   └── spec-kit/         # SDD 工作流
+│   └── voice-input-app/  # WhisperKit 语音输入
 ├── tasks/                # 任务列表（按项目分类）
 └── docs/                 # 文档和规范
 ```
@@ -19,8 +18,8 @@ project-management/
 
 | 项目 | 状态 | 技术栈 | 位置 |
 |------|------|--------|------|
-| maclift | 活跃 | iOS/Swift | /home/user/aihome/happy/ |
-| voice-input-app | 活跃 | Swift/WhisperKit | /home/user/aihome/happy/ |
+| maclift | 活跃 | iOS/Swift | GitHub: bGl5b25nanVu/MacLift |
+| voice-input-app | 活跃 | Swift/WhisperKit | GitHub (待确认) |
 | spec-kit | 新建 | Python | 已配置 MCP |
 
 ## 工作流程

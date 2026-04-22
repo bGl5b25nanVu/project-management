@@ -5,7 +5,7 @@ iOS 端到端测试项目
 ## 基本信息
 
 - **状态**: 活跃
-- **分支**: main
+- **GitHub**: https://github.com/bGl5b25nanVu/MacLift
 - **技术栈**: Swift, iOS
 
 ## 项目描述
@@ -25,7 +25,3 @@ iOS app 端到端测试项目，包含客户端和服务器端集成测试。
 
 - 服务器 headless 模式会崩溃
 - 端到端测试需要真机
-
-## 相关文档
-
-- 详见 `/home/user/aihome/happy/` 目录
