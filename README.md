@@ -12,7 +12,6 @@ project-management/
 │   ├── tempo.md                  # AI 日程排程助手
 │   ├── voice-input-app.md        # WhisperKit 语音输入
 │   ├── spec-kit.md               # Spec 驱动开发工作流
-│   ├── workspace-hub-alicloud.md # 阿里云统一工作平台
 │   └── openstick-zeroclaw.md     # OpenStick Telegram Bot + STT
 ├── tasks/                 # 任务列表（按项目分类）
 └── docs/                  # 文档和规范
@@ -26,7 +25,6 @@ project-management/
 | tempo | 规划中 | Flutter/FastAPI/OpenAI | MRR 主力产品 |
 | voice-input-app | 规划中 | Swift/WhisperKit | iOS 本地语音输入 |
 | spec-kit | 活跃 | Python/specify-cli | 开发流程标准化 |
-| workspace-hub-alicloud | 活跃 | Python/nginx/tmux | 47.106.8.180 运维支撑 |
 | openstick-zeroclaw | 活跃 | Go/mihomo/SenseVoice | 192.168.100.1 基础设施 |
 
 ## 核心目标
