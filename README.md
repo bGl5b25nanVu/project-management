@@ -10,20 +10,18 @@ project-management/
 ├── projects/              # 项目列表
 │   ├── maclift/          # iOS 端到端测试项目
 │   ├── voice-input-app/  # WhisperKit 语音输入
-│   ├── spec-kit/         # SDD 工作流
-│   └── tmuxper/          # 网页终端管理
+│   └── spec-kit/         # SDD 工作流
 ├── tasks/                # 任务列表（按项目分类）
 └── docs/                 # 文档和规范
 ```
 
 ## 项目状态总览
 
-| 项目 | 状态 | 技术栈 | 备注 |
+| 项目 | 状态 | 技术栈 | 位置 |
 |------|------|--------|------|
-| maclift | 活跃 | iOS/Swift | 端到端测试 |
-| voice-input-app | 活跃 | Swift/WhisperKit | 语音输入 |
-| spec-kit | 新建 | Python | SDD工作流 |
-| tmuxper | 活跃 | FastAPI/WebSocket | 网页终端 |
+| maclift | 活跃 | iOS/Swift | /home/user/aihome/happy/ |
+| voice-input-app | 活跃 | Swift/WhisperKit | /home/user/aihome/happy/ |
+| spec-kit | 新建 | Python | 已配置 MCP |
 
 ## 工作流程
 

@@ -20,4 +20,4 @@ iOS 语音输入应用，使用 WhisperKit 进行语音识别。
 
 ## 相关文档
 
-- 详见 `/home/user/aihome/` 相关目录
+- 位置: `/home/user/aihome/happy/`
